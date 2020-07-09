@@ -1,0 +1,675 @@
+Retention time (min),Ion formula,Name,m/z
+9.50,C4H8NO2+,1-Aminocyclopropane-1-carboxylate STD [M+H]+,102.0550
+11.12,C11H16N5O4+,1-Methyladenosine STD [M+H]+,282.1197
+5.18,C5H5O3+,2-Furoate STD [M+H]+,113.0233
+15.56,C3H9O10P2+,Diphospho-glycerate STD [M+H]+,266.9665
+5.92,C11H15N4O5+,2-O-Methyl-inosine STD [M+H]+,283.1037
+6.06,C10H13N5O6P+,"2,3-Cyclic AMP STD [M+H]+",330.0598
+10.90,C7H16NO2+,Butyro-betaine STD [M+H]+,146.1176
+14.49,C8H15O8+,3-Deoxy-D-manno-octulosonate STD [M+H]+,239.0761
+7.04,C10H13N5O6P+,"3,5-Cyclic AMP STD [M+H]+",330.0598
+7.20,C7H8NO2+,4-Aminobenzoate STD [M+H]+,138.0550
+12.52,C5H12N3O2+,4-Guanidinobutanoate STD [M+H]+,146.0924
+7.27,C9H7O3+,4-Methylphthalic anhydride STD [M+H]+,163.0390
+9.39,C6H11N2O3+,"Threonyl-glycine STD,4-Methylene-L-glutamine MS [M-H2O+H]+",159.0764
+16.53,C5H14O14P3+,PRPP (5-Phospho-alpha-D-ribose 1-diphosphate) STD [M+H]+,390.9591
+10.48,C23H39N7O17P3S+,Acetyl-CoA STD [M+H]+,810.1330
+6.57,C5H6N5+,Adenine STD [M+H]+,136.0618
+6.23,C10H14N5O4+,"2-deoxyguanosine MS,Adenosine STD [M+H]+",268.1040
+12.44,C10H16N5O10P2+,ADP STD [M+H]+,428.0367
+11.91,C8H15N2O5+,Glutamyl-alanine STD [M+H]+,219.0975
+11.51,C10H15N5O7P+,AMP STD [M+H]+,348.0704
+15.77,C11H22N5O5+,Glutamyl-arginine STD [M+H]+,304.1615
+11.57,C6H9O6+,Ascorbate STD [M+H]+,177.0394
+13.77,C10H17N5O13P3+,ATP STD [M+H]+,508.0030
+13.75,C10H20N6O13P3+,ATP STD [M+NH4]+,525.0296
+3.38,C33H37N4O6+,Bilirubin STD [M+H]+,585.2708
+3.83,C8H11N4O2+,Caffeine STD [M+H]+,195.0877
+14.70,C9H16N3O11P2+,CDP STD [M+H]+,404.0255
+12.97,C14H27N4O11P2+,CDP-choline STD [M+H]+,489.1146
+13.81,C11H21N4O11P2+,CDP-ethanolamine STD [M+H]+,447.0677
+15.49,C6H7O6+,cis-Aconitate STD [M+H]+,175.0237
+13.39,C9H15N3O8P+,CMP STD [M+H]+,324.0591
+11.69,C21H37N7O16P3S+,CoA STD [M+H]+,768.1225
+4.67,C10H13N2O+,Cotinine STD [M+H]+,177.1022
+12.07,C4H10N3O2+,Creatine STD [M+H]+,132.0768
+15.39,C9H17N3O14P3+,CTP STD [M+H]+,483.9918
+3.33,C21H21O6+,Curcumin STD [M+H]+,369.1333
+9.08,C9H14N3O5+,Cytidine STD [M+H]+,244.0928
+10.16,C5H13O5+,Arabitol STD [M+H]+,153.0757
+11.48,C6H13O7+,Gluconate STD [M+H]+,197.0656
+5.85,C27H46N9O12+,Deferriferrichrome STD [M+H]+,688.3260
+12.21,C10H17N2O8+,EDTA STD [M+H]+,293.0979
+12.39,C10H15N2O8Zn+,EDTA+Zn STD [M+H]+,355.0114
+12.13,C9H16N3O2S+,Ergothioneine STD [M+H]+,230.0958
+9.44,C27H34N9O15P2+,FAD STD [M+H]+,786.1644
+4.65,C27H43FeN9O12+,Ferrichrome STD [M+H]+,741.2375
+4.60,C11H16N5O3S+,Methylthioadenosine STD [M+H]+,298.0968
+11.51,C8H15N2O5S+,Glutamyl-cysteine STD [M+H]+,251.0696
+15.20,C10H16N5O11P2+,GDP STD [M+H]+,444.0316
+15.49,C16H26N5O16P2+,GDP-glucose STD [M+H]+,606.0844
+7.05,C6H12NO4+,"N-Acetylthreonine MS,Glutamate methyl ester STD [M+H]+",162.0761
+9.17,C14H19N2O5+,Glutamyl-phenylalanine STD [M+H]+,295.1288
+12.03,C10H18N3O6S+,Glutathione (GSH) STD [M+H]+,308.0911
+14.99,C20H33N6O12S2+,Glutathione disulfide (GSSG) STD [M+H]+,613.1592
+15.00,[C20H34N6O12S2]2+,Glutathione disulfide (GSSG) STD [M+2H]2+,307.0833
+12.15,C8H21NO6P+,Glycerophosphocholine STD [M+H]+,258.1101
+3.77,C26H44NO5+,Glycochenodeoxycholate STD [M+H]+,450.3214
+4.24,C26H44NO6+,Glycocholate STD [M+H]+,466.3163
+14.17,C10H15N5O8P+,GMP STD [M+H]+,364.0653
+16.36,C10H17N5O14P3+,GTP STD [M+H]+,523.9979
+9.75,C10H14N5O5+,Guanosine STD [M+H]+,284.0989
+8.27,C8H19N2O4S+,HEPES STD [M+H]+,239.1060
+13.68,C7H16O10P+,Sedoheptulose-7-phosphate STD [M+H]+,291.0476
+4.82,C13H26NO4+,Hexanoyl-carnitine STD [M+H]+,260.1856
+11.42,C6H15O6+,"Hexitol [C6H14O6] 11.0 MS,D-(-)-Sorbitol STD [M+H]+",183.0863
+12.05,C6H10N3O2+,Histidine STD [M+H]+,156.0768
+13.17,C27H45N7O20P3S+,HMG-CoA STD [M+H]+,912.1647
+3.80,C21H31O5+,Cortisol/Hydrocortisone STD [M+H]+,363.2166
+11.35,C5H10NO3+,"5-Aminolevulinate STD,Hydroxyproline STD [M+H]+",132.0655
+6.00,C14H19N2O2+,Trimethyl-tryptophan (Hypaphorine) STD [M+H]+,247.1441
+7.20,C5H5N4O+,Hypoxanthine STD [M+H]+,137.0458
+13.05,C10H14N4O8P+,IMP STD [M+H]+,349.0544
+8.17,C10H13N4O5+,"Allopurinol riboside STD,Inosine STD [M+H]+",269.0880
+5.42,C12H24NO4+,Isovaleryl-carnitine STD [M+H]+,246.1700
+3.73,C6H11O3+,Ketoleucine STD [M+H]+,131.0703
+7.99,C10H13N2O3+,Kynurenine STD [M+H]+,209.0921
+8.47,C9H18NO4+,Acetyl-carnitine STD [M+H]+,204.1230
+24.77,C6H15N4O2+,Arginine STD [M+H]+,175.1190
+12.43,C4H8NO4+,Aspartate STD [M+H]+,134.0448
+10.86,C7H16NO3+,Carnitine STD [M+H]+,162.1125
+13.03,C6H14N3O3+,Citrulline STD [M+H]+,176.1030
+13.30,C6H13N2O4S2+,Cystine (Cysteine disulfide) STD [M+H]+,241.0311
+12.08,C5H10NO4+,Glutamate STD [M+H]+,148.0604
+4.14,C15H30NO4+,Octanoyl-carnitine STD [M+H]+,288.2169
+3.69,C7H16NO2+,Leucine-Methyl-ester STD [M+H]+,146.1176
+2.88,C18H33O2+,Linoleic acid STD [M+H]+,281.2475
+3.50,C8H15O2S2+,Lipoate STD [M+H]+,207.0508
+23.31,C6H15N2O2+,Lysine STD [M+H]+,147.1128
+13.13,C4H7O5+,Malate STD [M+H]+,135.0288
+8.74,C5H12NO2S+,Methionine STD [M+H]+,150.0583
+14.19,C10H19N4O6+,Argininosuccinic acid STD [M+H]+,291.1299
+12.26,C8H17N4O3+,N-Acetyl-arginine STD [M+H]+,217.1295
+11.61,C7H12NO5+,N-Acetyl-glutamate STD [M+H]+,190.0710
+4.40,C8H16NO3+,"Isovalerylsarcosine STD,N-Acetyl-leucine STD,Hexanoyl Glycine STD,N-Acetyl-isoleucine STD [M+H]+",174.1125
+4.71,C8H17N2O2+,"N-Acetyl-Leucine-amide STD,N-Acetyl-Isoleucine-amide STD [M+H]+",173.1285
+5.40,C11H14NO4+,Acetyl-tyrosine STD [M+H]+,224.0917
+7.10,C7H16NO2+,"Methyl-leucine STD,Dimethyl-valine STD [M+H]+",146.1176
+19.95,C8H19N4O2+,"NG,NG-dimethylarginine STD,Dimethyl-arginine STD [M+H]+",203.1503
+9.71,C8H14N3O2+,Dimethyl-histidine STD [M+H]+,184.1081
+12.67,C8H17N2O3+,N2-Acetyl-lysine STD [M+H]+,189.1234
+5.96,C12H18N5O5+,Dimethyl-guanosine STD [M+H]+,312.1302
+10.45,C8H17N2O3+,N6-Acetyl-lysine STD [M+H]+,189.1234
+11.91,C21H28N7O14P2+,NAD+ STD [M+H]+,664.1164
+11.13,C21H30N7O14P2+,NADH STD [M+H]+,666.1320
+14.38,C21H29N7O17P3+,NADP+ STD [M+H]+,744.0827
+14.81,C21H31N7O17P3+,NADPH STD [M+H]+,746.0984
+4.72,C6H7N2O+,Nicotinamide STD [M+H]+,123.0553
+4.96,C6H6NO2+,Nicotinic acid STD [M+H]+,124.0393
+12.83,C10H18N3O6+,"Norophthalmic acid (glutamyl-alanyl-glycine) STD,Glutamyl-glutamine STD [M+H]+",276.1190
+4.16,C17H34NO4+,Decanoyl-carnitine STD [M+H]+,316.2482
+11.22,C11H20N3O6+,Ophthalmic acid STD [M+H]+,290.1347
+20.71,C5H13N2O2+,Ornithine STD [M+H]+,133.0972
+6.12,C9H18NO5+,Pantothenate STD [M+H]+,220.1179
+4.49,C7H9N4O2+,Dimethyl-xanthine STD [M+H]+,181.0720
+7.28,C9H12NO2+,Phenylalanine STD [M+H]+,166.0863
+3.40,C9H9O3+,Phenylpyruvate STD [M+H]+,165.0546
+13.30,H7O8P2+,Phosphate (dimer) STD [M+H]+,196.9611
+14.41,C3H8O7P+,Phosphoglycerate STD [M+H]+,187.0002
+11.90,C8H19N2O6S2+,PIPES STD [M+H]+,303.0679
+3.50,C21H29O5+,"Prednisolone? MS,Aldosterone STD [M+H]+",361.2009
+23.38,C5H12NO+,Prolinol STD [M+H]+,102.0913
+7.20,C10H20NO4+,Propionyl-carnitine STD [M+H]+,218.1387
+9.66,C7H13O5+,(Iso)Propylmalate STD [M+H]+,177.0757
+5.56,C8H12NO3+,Pyridoxine STD [M+H]+,170.0812
+7.82,C5H8NO3+,Pyroglutamate STD [M+H]+,130.0499
+10.36,C7H13O6+,Quinic acid STD [M+H]+,193.0707
+12.67,C7H6NO4+,Quinolinic acid STD [M+H]+,168.0291
+4.20,C14H13O3+,Resveratrol STD [M+H]+,229.0859
+5.72,C17H21N4O6+,Riboflavin STD [M+H]+,377.1456
+13.03,C5H12O8P+,Ribose-phosphate STD [M+H]+,231.0264
+11.18,C14H21N6O5S+,S-Adenosyl-homocysteine STD [M+H]+,385.1289
+14.40,C15H23N6O5S+,S-Adenosyl-methionine STD [M+H]+,399.1445
+13.33,C11H21N2O6+,Saccharopine STD [M+H]+,277.1394
+12.63,C10H19N4O5+,Succinyl-arginine STD [M+H]+,275.1350
+13.60,C25H41N7O19P3S+,Succinyl-CoA STD [M+H]+,868.1385
+11.12,C9H17N2O5+,gamma-Glutamyl-2-aminobutyrate STD [M+H]+,233.1132
+15.00,H5O8S2+,Sulfate (dimer) STD [M+H]+,196.9420
+3.85,C21H42NO4+,Tetradecanoyl-carnitine STD [M+H]+,372.3108
+4.33,C6H15O4+,Triethylene glycol STD [M+H]+,151.0965
+9.75,C9H16N3O2+,Trimethyl-histidine (hercynine) STD [M+H]+,198.1237
+20.69,C9H21N2O2+,Trimethyl-lysine STD [M+H]+,189.1598
+8.74,C11H13N2O2+,Tryptophan STD [M+H]+,205.0972
+10.26,C9H12NO3+,Tyrosine STD [M+H]+,182.0812
+14.00,C9H15N2O12P2+,UDP STD [M+H]+,405.0095
+12.75,C17H28N3O17P2+,UDP-N-acetylglucosamine STD [M+H]+,608.0888
+13.84,C15H25N2O17P2+,"UDP-D-galactose STD,UDP-glucose STD [M+H]+",567.0623
+13.83,C15H28N3O17P2+,"UDP-glucose STD,UDP-D-galactose STD [M+NH4]+",584.0888
+13.73,C9H18N3O12P2+,UDP STD [M+NH4]+,422.0360
+12.61,C9H14N2O9P+,UMP STD [M+H]+,325.0431
+7.03,C9H13N2O6+,Uridine STD [M+H]+,245.0768
+15.10,C9H16N2O15P3+,UTP STD [M+H]+,484.9758
+15.09,C9H19N3O15P3+,UTP STD [M+NH4]+,502.0024
+3.14,C25H48NO4+,"Vaccenyl carnitine MS,Oleoylcarnitine STD [M+H]+",426.3578
+8.71,C22H25N4O4+,Tryptophan STD [2M+H]+,409.1870
+7.93,C7H14NO2+,Dimethyl-proline (stachydrine) STD [M+H]+,144.1019
+22.07,C7H17N2O2+,Methyl-lysine STD [M+H]+,161.1285
+4.42,C9H9O4+,"4-Hydroxyphenylpyruvate STD,Monomethyl phthalate STD [M+H]+",181.0495
+7.14,C11H16N5O5+,"2-O-Methylguanosine STD,1-Methylguanosine STD [M+H]+",298.1146
+11.50,C8H15O8+,2-keto-3-deoxyoctonate STD [M+H]+,239.0761
+7.89,C10H18N3O2S+,S-Methyl-ergothioneine STD [M+H]+,244.1114
+4.10,C10H15N2+,Nicotine STD (Nicotine positive) [M+H]+,163.1230
+13.38,C3H8NO2S+,Cysteine STD [M+H]+,122.0270
+7.36,C20H20NaO9+,trans-Resveratrol-glucuronide STD [M+Na]+,427.1000
+7.90,C5H5N4O2+,Oxypurinol STD [M+H]+,153.0407
+2.80,C28H49O2+,Gamma-Tocopherol STD [M+H]+,417.3727
+4.55,C4H7N2S+,Methimazole STD [M+H]+,115.0324
+3.81,C24H41O4+,Chenodeoxycholic acid STD [M+H]+,393.2999
+7.40,C5H5N2O4+,Orotic acid STD [M+H]+,157.0244
+9.85,C10H13N2O8+,Orotidine STD [M+H]+,289.0666
+3.00,C30H51+,Squalene STD [M+H]+,411.3985
+4.90,C8H8NO4S+,Indoxyl-sulfate STD [M+H]+,214.0169
+20.39,C13H21N6O3S+,S-adenosyl-3-thiopropylamine STD [M+H]+,341.1390
+7.14,C11H22NO4+,(iso)Butyryl-carnitine STD [M+H]+,232.1543
+2.51,C34H67N2O8+,Decanoyl-carnitine STD (O-Decanol-L-carnitine dimer ?) [2M+H]+,631.4892
+8.48,C18H35N2O8+,Acetyl-carnitine STD [2M+H]+,407.2388
+4.90,C34H67N2O8+,Decanoyl-carnitine STD [2M+H]+,631.4892
+4.80,C51H100N3O12+,Decanoyl-carnitine STD [3M+H]+,946.7302
+4.62,C26H51N2O8+,Hexanoyl-carnitine STD [2M+H]+,519.3640
+3.16,C39H76N3O12+,Hexanoyl-carnitine STD [3M+H]+,778.5424
+3.40,C30H59N2O8+,Octanoyl-carnitine STD [2M+H]+,575.4266
+3.78,C19H38NO4+,Dodecanoyl-carnitine STD [M+H]+,344.2795
+3.88,C25H46NO4+,Linoleyl carnitine STD [M+H]+,424.3421
+4.10,C42H83N2O8+,Tetradecanoyl-carnitine STD (dimer of teradecanoylcarnitine) [2M+H]+,743.6144
+3.64,C23H46NO4+,L-Palmitoylcarnitine STD [M+H]+,400.3421
+4.41,C25H50NO4+,Stearoylcarnitine STD [M+H]+,428.3734
+12.70,C9H16N4O8P+,AICAR STD [M+H]+,339.0700
+11.41,C20H29N10O14P2+,AMP STD [2M+H]+,695.1334
+7.05,C16H19O9+,3-Caffeoylquinic acid (Chlorogenic acid) STD [M+H]+,355.1024
+20.97,C5H14NO+,Choline STD (Very high E7-E8 positive only peak around 23min) [M+H]+,104.1070
+8.42,C6H12NO4+,L-Glutamic acid 5-methyl ester STD [M+H]+,162.0761
+5.00,C15H11O6+,Luteolin STD [M+H]+,287.0550
+4.66,C15H11O7+,Quercetin STD [M+H]+,303.0499
+9.36,C11H21N2O5+,Glutamyl-(iso)leucine STD [M+H]+,261.1445
+9.03,C4H10NO2S+,Homocysteine STD [M+H]+,136.0427
+5.20,C20H23O8+,Polydatin STD [M+H]+,391.1387
+12.34,C9H17N2O6+,Glutamyl-threonine STD [M+H]+,249.1081
+3.48,C14H15O3+,"Dihydroresveratrol STD,Naproxen MS [M+H]+",231.1016
+15.83,C11H22N3O5+,Glutamyl-lysine STD [M+H]+,276.1554
+13.13,C8H15N2O6+,Glutamyl-serine STD [M+H]+,235.0925
+12.96,C9H15N4O3+,"Carnosine STD,Histidylalanine MS (Carnosine [M+H]+) [M+H]+",227.1139
+13.95,C3H8NO5S2+,Cysteine-S-sulfate STD [M+H]+,201.9838
+14.75,C10H17N2O7+,Glutamyl-glutamate STD [M+H]+,277.1030
+13.60,C9H16N3O6+,"Glutamyl-glycyl-glycine STD,Glutamyl-asparagine STD [M+H]+",262.1034
+4.71,C25H25O12+,"3,5-Dicaffeoylquinic acid (Isochlorogenic acid A) STD [M+H]+",517.1341
+10.54,C4H7N4O3+,Allantoin STD [M+H]+,159.0513
+12.36,C12H19N4O7P2S+,Thiamin diphosphate STD [M+H]+,425.0444
+11.90,C8H22N3O6S2+,PIPES STD [M+NH4]+,320.0945
+4.73,C7H14NO4+,Dimethyl glutamate STD [M+H]+,176.0917
+4.27,C26H47N2O6+,Glycocholate STD [M+NH4]+,483.3429
+3.65,C52H87N2O10+,Glycochenodeoxycholate STD [2M+H]+,899.6355
+3.57,C52H90N3O10+,Glycochenodeoxycholate STD [2M+NH4]+,916.6621
+23.30,C12H29N4O4+,Lysine STD [2M+H]+,293.2183
+4.30,C26H42NO5+,Glycocholate STD [M-H2O+H]+,448.3057
+20.67,C10H25N4O4+,Ornithine STD [2M+H]+,265.1870
+3.67,C26H43NNaO5+,Glycochenodeoxycholate STD [M+Na]+,472.3033
+13.03,C3H8N3O2+,Guanidinoacetate STD [M+H]+,118.0611
+2.98,C14H28KO2+,Myristic acid STD [M+K]+,267.1721
+5.10,C11H12NO3+,Indolelactate STD [M+H]+,206.0812
+3.87,C24H44NO4+,Chenodeoxycholic acid STD [M+NH4]+,410.3265
+23.30,C6H14N2NaO2+,Lysine STD [M+Na]+,169.0947
+5.85,C10H10NO2+,Indoleacetate STD [M+H]+,176.0706
+4.76,C8H11N2O4S+,Indoxyl-sulfate STD [M+NH4]+,231.0434
+4.21,C26H47N2O5+,Glycochenodeoxycholate STD [M+NH4]+,467.3479
+4.05,C26H49N2O7S+,Taurocholate STD [M+NH4]+,533.3255
+9.73,C4H10NO2+,Dimethyl-glycine STD [M+H]+,104.0706
+7.96,C14H27N2O4+,Dimethyl-proline (stachydrine) STD [2M+H]+,287.1965
+11.90,C10H19N2O8+,Glutamate STD [2M+H]+,295.1136
+11.10,C6H15O6+,D-(-)-Sorbitol STD [M+H]+,183.0863
+5.43,C12H18NO2+,N-trimethyl-phenylalanine STD [M+H]+,208.1332
+11.95,C20H35N6O12S2+,Glutathione (GSH) STD [2M+H]+,615.1749
+12.19,C18H31N6O4S2+,Ergothioneine STD [2M+H]+,459.1843
+15.52,C3H12NO10P2+,Diphospho-glycerate STD [M+NH4]+,283.9931
+15.48,C6H17O20P4+,Diphospho-glycerate STD [2M+H]+,532.9258
+13.79,C10H16N5NaO13P3+,ATP STD [M+Na]+,529.9850
+11.87,[C21H29N7O14P2]2+,NAD+ STD [M+2H]2+,332.5618
+12.12,C18H30N6NaO4S2+,Ergothioneine STD [2M+Na]+,481.1662
+12.07,C10H17N3NaO6S+,Glutathione (GSH) STD [M+Na]+,330.0730
+12.02,C8H19N6O4+,Creatine STD [2M+H]+,263.1462
+12.09,C27H46N9O6S3+,Ergothioneine STD [3M+H]+,688.2728
+15.43,C6H20NO20P4+,Diphospho-glycerate STD [2M+NH4]+,549.9524
+12.18,C9H15N3NaO2S+,Ergothioneine STD [M+Na]+,252.0777
+12.21,C20H34N6NaO12S2+,Glutathione (GSH) STD [2M+Na]+,637.1568
+16.05,C3H8NaO10P2+,Diphospho-glycerate STD [M+Na]+,288.9485
+11.41,C10H14N5NaO7P+,AMP STD [M+Na]+,370.0523
+11.98,C30H52N9O18S3+,Glutathione (GSH) STD [3M+H]+,922.2587
+12.67,C20H31N10O20P4+,ADP STD [2M+H]+,855.0661
+15.35,C9H28NO30P6+,Diphospho-glycerate STD [3M+NH4]+,815.9116
+15.46,C9H25O30P6+,Diphospho-glycerate STD [3M+H]+,798.8851
+15.81,C6H16NaO20P4+,Diphospho-glycerate STD [2M+Na]+,554.9078
+12.67,C12H23N2O8+,2-Aminoadipate STD [2M+H]+,323.1449
+14.38,[C21H30N7O17P3]2+,NADP+ STD [M+2H]2+,372.5450
+4.00,C8H14NO2+,"Hexanoyl Glycine STD,N-Acetyl-leucine STD,Isovalerylsarcosine STD,N-Acetyl-isoleucine STD [M-H2O+H]+",156.1019
+16.29,C5H17NO14P3+,PRPP (5-Phospho-alpha-D-ribose 1-diphosphate) STD [M+NH4]+,407.9856
+14.33,C3H11NO7P+,Phosphoglycerate STD [M+NH4]+,204.0268
+11.50,C6H11O6+,Gluconate STD [M-H2O+H]+,179.0550
+3.65,C26H46NO7S+,Taurocholate STD [M+H]+,516.2990
+16.45,C15H26N3O18P2+,UDP-glucuronate STD [M+NH4]+,598.0681
+13.43,C2H9NO4P+,O-Phosphoethanolamine STD [M+H]+,142.0264
+13.42,C4H17N2O8P2+,O-Phosphoethanolamine STD [2M+H]+,283.0455
+12.36,C20H27N8O16P2+,IMP STD [2M+H]+,697.1015
+13.46,C6H25N3O12P3+,O-Phosphoethanolamine STD [3M+H]+,424.0646
+11.42,C11H20NO9+,N-Acetylneuraminate STD [M+H]+,310.1133
+12.78,C17H31N4O17P2+,UDP-N-acetylglucosamine STD [M+NH4]+,625.1154
+7.22,C5H4N4NaO+,Hypoxanthine STD [M+Na]+,159.0277
+12.98,[C14H28N4O11P2]2+,CDP-choline STD [M+2H]2+,245.0609
+7.21,C10H8N8NaO2+,Hypoxanthine STD [2M+Na]+,295.0662
+12.69,C9H17N3O9P+,UMP STD [M+NH4]+,342.0697
+13.83,C20H29N10O16P2+,GMP STD [2M+H]+,727.1233
+11.79,[C8H20N2O6S2]2+,PIPES STD [M+2H]2+,152.0376
+7.21,C10H9N8O2+,Hypoxanthine STD [2M+H]+,273.0843
+13.31,C8H33N4O16P4+,O-Phosphoethanolamine STD [4M+H]+,565.0837
+15.90,C14H19N5O11P+,Adenylosuccinate STD [M+H]+,464.0813
+11.50,C20H28N10NaO14P2+,AMP STD [2M+Na]+,717.1154
+5.21,C6H15O4+,Triethylene glycol STD [M+H]+,151.0965
+7.82,C7H14NaO6+,Methylglucoside STD [M+Na]+,217.0683
+7.37,C7H15O6+,Methylglucoside STD [M+H]+,195.0863
+11.87,C16H40N5O12S4+,PIPES STD [2M+NH4]+,622.1551
+4.67,C11H10NO2+,Indolelactate STD [M-H2O+H]+,188.0706
+15.47,C24H46NO21+,Maltotetraose STD [M+NH4]+,684.2557
+2.86,C26H36N5O4+,Melatonin STD [2M+NH4]+,482.2762
+12.10,C4H8N3O+,Creatine STD [M-H2O+H]+,114.0662
+10.53,C6H12NO2+,L-Pipecolate STD [M+H]+,130.0863
+11.23,C11H18NO8+,N-Acetylneuraminate STD [M-H2O+H]+,292.1027
+4.72,C6H18NO4+,Triethylene glycol STD [M+NH4]+,168.1230
+13.01,C10H17N5O8P+,IMP STD [M+NH4]+,366.0809
+8.20,C16H37N4O8S2+,HEPES STD [2M+H]+,477.2047
+8.08,C24H55N6O12S3+,HEPES STD [3M+H]+,715.3035
+4.94,C6H5N2O+,Urocanate STD [M-H2O+H]+,121.0396
+7.99,C8H18N2NaO4S+,HEPES STD [M+Na]+,261.0879
+4.94,C6H7N2O2+,Urocanate STD [M+H]+,139.0502
+11.85,C16H37N4O12S4+,PIPES STD [2M+H]+,605.1285
+13.20,C12H27N6O6+,Citrulline STD [2M+H]+,351.1987
+4.37,C9H10NO3+,Hippurate STD [M+H]+,180.0655
+9.93,C7H16NO5+,(Iso)Propylmalate STD [M+NH4]+,194.1023
+13.33,C6H12N2NaO4S2+,Cystine (Cysteine disulfide) STD [M+Na]+,263.0131
+3.96,C45H88N3O12+,Octanoyl-carnitine STD [3M+H]+,862.6363
+5.00,C11H16N5O4+,"O6-Methyl-2-deoxyguanosine STD,N6-Methyladenosine STD,3-O-Methyladenosine STD,2-O-Methyladenosine STD [M+H]+",282.1197
+12.71,C4H11N3O5P+,Phosphocreatine STD [M+H]+,212.0431
+24.77,C12H29N8O4+,Arginine STD [2M+H]+,349.2306
+13.30,C12H25N4O8S4+,Cystine (Cysteine disulfide) STD [2M+H]+,481.0550
+11.30,C6H14NaO6+,D-(-)-Sorbitol STD [M+Na]+,205.0683
+8.14,C20H25N8O10+,Inosine STD [2M+H]+,537.1688
+8.21,C10H12N4NaO5+,"Allopurinol riboside STD,Inosine STD [M+Na]+",291.0700
+8.20,C20H24N8NaO10+,"Allopurinol riboside STD,Inosine STD [2M+Na]+",559.1508
+7.70,C11H17N4O4+,Acetylcarnosine STD [M+H]+,269.1244
+3.62,C8H10NO4+,4-Pyridoxate STD [M+H]+,184.0604
+6.02,C28H37N4O4+,Trimethyl-tryptophan (Hypaphorine) STD [2M+H]+,493.2809
+4.57,C8H13N4O3+,Histidinyl-glycine STD [M+H]+,213.0982
+7.39,C18H23N2O4+,Phenylalanine STD [2M+H]+,331.1652
+4.74,C9H12NO4+,Aspirin STD [M+NH4]+,198.0761
+14.41,C6H15O14P2+,Phosphoglycerate STD [2M+H]+,372.9932
+14.68,C20H31N6O11S2+,Glutathione disulfide (GSSG) STD [M-H2O+H]+,595.1487
+24.76,C6H14N4NaO2+,Arginine STD [M+Na]+,197.1009
+23.31,C12H28N4NaO4+,Lysine STD [2M+Na]+,315.2003
+12.84,C6H11N2O5+,Aspartyl-glycine STD [M+H]+,191.0662
+13.02,C7H13N2O5+,Glutamyl-glycine STD [M+H]+,205.0819
+22.04,C7H16N2NaO2+,Methyl-lysine STD [M+Na]+,183.1104
+5.14,[C11H20N6O4]2+,N6-Methyladenosine STD [M+H+NH4]2+,150.0768
+11.28,C6H18NO6+,D-(-)-Sorbitol STD [M+NH4]+,200.1129
+11.27,C6H13O5+,D-(-)-Sorbitol STD [M-H2O+H]+,165.0757
+11.85,C16H29N4O10+,Glutamyl-alanine STD [2M+H]+,437.1878
+3.72,C8H8NO3+,4-Pyridoxate STD [M-H2O+H]+,166.0499
+13.20,C6H13N3NaO3+,Citrulline STD [M+Na]+,198.0849
+7.85,C11H16N5O5+,N2-Methylguanosine STD [M+H]+,298.1146
+4.21,C6H8NO+,4-Aminophenol STD [M+H]+,110.0600
+12.04,C10H19N4O6S2+,Cysteinylglycine disulfide STD [M+H]+,355.0741
+10.22,C18H23N2O6+,Tyrosine STD [2M+H]+,363.1551
+5.99,C9H17NNaO5+,Pantothenate STD [M+Na]+,242.0999
+13.66,C7H14O9P+,Sedoheptulose-7-phosphate STD [M-H2O+H]+,273.0370
+24.77,C12H28N8NaO4+,Arginine STD [2M+Na]+,371.2126
+4.68,C9H8NO2+,Hippurate STD [M-H2O+H]+,162.0550
+7.06,C20H21O9+,trans-Resveratrol-glucuronide STD [M+H]+,405.1180
+7.20,C20H24NO9+,trans-Resveratrol-glucuronide STD [M+NH4]+,422.1446
+4.41,C24H44NO5+,Cholic acid STD [M+NH4]+,426.3214
+3.79,C29H51O2+,Alpha-Tocopherol STD [M+H]+,431.3884
+24.78,C18H43N12O6+,Arginine STD [3M+H]+,523.3423
+4.39,C14H16NO6S+,Resveratrol-sulfate STD [M+NH4]+,326.0693
+22.03,C14H33N4O4+,Methyl-lysine STD [2M+H]+,321.2496
+12.61,C8H17NO9P+,N-Acetyl-D-glucosamine 6-phosphate STD [M+H]+,302.0635
+11.84,C24H55N6O18S6+,PIPES STD [3M+H]+,907.1892
+2.99,C27H45+,Cholesterol STD [M-H2O+H]+,369.3516
+7.76,C15H15O6+,"Catechin STD,Epicatechin STD [M+H]+",291.0863
+4.15,C20H26NO8+,Polydatin STD [M+NH4]+,408.1653
+5.22,C9H7O2+,4-Coumarate STD [M-H2O+H]+,147.0441
+9.78,C5H7N2O2+,Imidazole-4-acetate STD [M+H]+,127.0502
+4.88,C11H15N2O3+,Phenylalanyl-glycine STD [M+H]+,223.1077
+8.99,C13H24N3O6+,"Glutamyl-isoleucine-glycine STD,Glutamyl-leucine-glycine STD [M+H]+",318.1660
+6.20,C9H9O3+,"4-Coumarate STD,2-Coumarate STD [M+H]+",165.0546
+12.21,C16H41N2O12P2+,Glycerophosphocholine STD [2M+H]+,515.2129
+4.27,C7H8N4NaO2+,Dimethyl-xanthine STD [M+Na]+,203.0539
+12.21,C6H16NO7+,Gluconate STD [M+NH4]+,214.0921
+9.94,C12H22N3O6S+,Glutamyl-methionine-glycine STD [M+H]+,336.1224
+10.00,C12H22N3O6+,Glutamyl-valine-glycine STD [M+H]+,304.1503
+11.87,C21H27N7NaO14P2+,NAD+ STD [M+Na]+,686.0983
+11.00,C10H18N3O2S+,2-Iminobiotin STD [M+H]+,244.1114
+13.46,C18H30N5O10S2+,Phytochelatin/cadystin PC2 STD [M+H]+,540.1429
+14.41,C3H7NaO7P+,Phosphoglycerate STD [M+Na]+,208.9822
+13.49,[C18H31N5O10S2]2+,Phytochelatin/cadystin PC2 STD [M+2H]2+,270.5751
+11.14,C8H7O4+,Phthalic acid STD [M+H]+,167.0339
+11.32,C6H12NaO7+,Gluconate STD [M+Na]+,219.0475
+12.70,C18H27N4O18P2+,UMP STD [2M+H]+,649.0790
+6.07,C9H16NO4+,Pantothenate STD [M-H2O+H]+,202.1074
+4.03,C48H81O8+,Chenodeoxycholic acid STD [2M+H]+,785.5926
+12.35,C12H20N3O6+,"Glycyl-prolyl-glutamic acid STD,Glutamyl-proline-glycine STD [M+H]+",302.1347
+13.19,C14H26N4NaO11P2+,CDP-choline STD [M+Na]+,511.0966
+9.22,C18H27N6O10+,Cytidine STD [2M+H]+,487.1783
+5.44,C8H17N2O3+,(Iso)Leucyl-glycine STD [M+H]+,189.1234
+12.22,C8H20NNaO6P+,Glycerophosphocholine STD [M+Na]+,280.0920
+13.05,C6H10NaO7+,D-Glucuronate STD [M+Na]+,217.0319
+3.01,C13H17N2O2+,Melatonin STD [M+H]+,233.1285
+6.66,C7H15N2O3+,Valyl-glycine STD [M+H]+,175.1077
+13.70,C6H15NO8P+,D-Glucosamine 6-phosphate STD [M+H]+,260.0530
+9.93,C7H13N2O3+,Proline-glycine STD [M+H]+,173.0921
+14.56,C9H15N2O7+,Glutamyl-aspartate STD [M+H]+,263.0874
+3.98,C15H13O5+,"Naringenin [Butein same mass, RT] STD,Butein [Naringenin same mass, RT] STD [M+H]+",273.0757
+11.68,C24H39N6O12+,Glutamyl-proline-glycine STD [2M+H]+,603.2620
+14.41,C8H18N5O3+,Arginyl-glycine STD [M+H]+,232.1404
+9.61,C7H12NaO5+,(Iso)Propylmalate STD [M+Na]+,199.0577
+14.49,C8H18N3O3+,Lysine-glycine STD [M+H]+,204.1343
+10.68,C6H10NO3+,N-Methyl-glutamate STD [M-H2O+H]+,144.0655
+11.51,C8H18NO8+,2-keto-3-deoxyoctonate STD [M+NH4]+,256.1027
+11.22,C14H19N2O6+,Glutamyl-tyrosine STD [M+H]+,311.1238
+9.43,C8H16NO4+,Castanospermine STD [M+H]+,190.1074
+9.40,C11H15N4O5+,7-Methylinosine STD [M+H]+,283.1037
+12.40,C16H40N2NaO12P2+,Glycerophosphocholine STD [2M+Na]+,537.1949
+8.63,C6H7O6+,Dehydroascorbic acid STD [M+H]+,175.0237
+9.47,C6H13N2O4+,Threonyl-glycine STD [M+H]+,177.0870
+12.47,C11H17N4O5+,Glutamyl-histidine STD [M+H]+,285.1193
+9.46,C8H15N2O4+,1-Aminocyclopropane-1-carboxylate STD [2M+H]+,203.1026
+12.35,C5H8NaO5+,Citramalate STD [M+Na]+,171.0264
+14.44,C12H20N3O8+,Glutamyl-glutamate-glycine STD [M+H]+,334.1245
+11.53,C15H24N5O4+,Kyotorphin STD [M+H]+,338.1823
+6.41,C9H11O4+,Homovanillic acid STD [M+H]+,183.0652
+13.05,C11H19N4O7+,Glutamyl-asparagine-glycine STD [M+H]+,319.1248
+4.44,C20H22NaO8+,Polydatin STD [M+Na]+,413.1207
+4.07,C24H39O3+,Chenodeoxycholic acid STD [M-H2O+H]+,375.2894
+11.12,C11H19N3NaO6+,Ophthalmic acid STD [M+Na]+,312.1166
+4.42,C7H7N4O+,Dimethyl-xanthine STD [M-H2O+H]+,163.0614
+5.38,C8H10NO2+,Pyridoxine STD [M-H2O+H]+,152.0706
+6.50,C8H9O4+,"Homogentisic acid STD,Vanillic acid STD [M+H]+",169.0495
+10.54,C10H19N2O5+,"Glutamyl-valine STD,Aspartyl-leucine MS [M+H]+",247.1288
+3.39,C6H11O5+,Dimethyl L-(-)-Malate STD [M+H]+,163.0601
+10.17,C7H16NO6+,Quinic acid STD [M+NH4]+,210.0972
+3.72,C21H27O4+,Aldosterone STD [M-H2O+H]+,343.1904
+6.95,C18H25N4O12+,Uridine STD [2M+H]+,489.1463
+4.66,C48H81O10+,Cholic acid STD [2M+H]+,817.5824
+13.12,C18H29N8O6+,Carnosine STD [2M+H]+,453.2205
+13.13,C10H18N3O7+,Glutamyl-serine-glycine STD [M+H]+,292.1139
+3.87,C26H44NO6S+,Taurocholate STD [M-H2O+H]+,498.2884
+13.82,C10H17N4O3+,Homocarnosine STD [M+H]+,241.1295
+8.65,C4H6N3O+,Cytosine STD [M+H]+,112.0505
+12.98,C9H14N4NaO3+,Carnosine STD [M+Na]+,249.0958
+14.10,C6H14NO6+,D-Glucosaminate STD [M+H]+,196.0816
+13.87,C10H15N4O2+,Homocarnosine STD [M-H2O+H]+,223.1190
+16.70,C15H23N2O18P2+,UDP-glucuronate STD [M+H]+,581.0416
+16.50,C15H22N2NaO18P2+,UDP-glucuronate STD [M+Na]+,603.0235
+12.70,C8H21N6O10P2+,Phosphocreatine STD [2M+H]+,423.0789
+14.04,C18H28N8NaO6+,Carnosine STD [2M+Na]+,475.2024
+5.70,C5H7N2O2+,Thymine STD [M+H]+,127.0502
+3.82,C48H84NO10+,Cholic acid STD [2M+NH4]+,834.6090
+4.34,C48H80NaO8+,Chenodeoxycholic acid STD [2M+Na]+,807.5745
+4.02,C48H84NO8+,Chenodeoxycholic acid STD [2M+NH4]+,802.6191
+11.10,C22H39N6O12+,Ophthalmic acid STD [2M+H]+,579.2620
+11.11,C22H38N6NaO12+,Ophthalmic acid STD [2M+Na]+,601.2440
+4.77,C11H11NNaO3+,Indolelactate STD [M+Na]+,228.0631
+4.92,C10H15N2O5+,Thymidine STD [M+H]+,243.0975
+11.06,C33H58N9O18+,Ophthalmic acid STD [3M+H]+,868.3894
+12.97,C4H10NO2+,GABA STD [M+H]+,104.0706
+13.40,C7H15N2O3+,"Glycyl-valine MS/MS,N-Acetyl-ornithine STD [M+H]+",175.1077
+7.28,C8H12NO4+,3-Hydroxymandelic acid STD [M+NH4]+,186.0761
+7.91,C5H8N3O+,Methyl-cytosine STD [M+H]+,126.0662
+11.05,C5H11N2O4+,Serine-glycine STD [M+H]+,163.0713
+13.02,C9H15N3O6C4H4N2H+,Glutamyl-histidine-glycine STD [M+H]+,342.1408
+6.22,C16H22NO9+,3-Caffeoylquinic acid (Chlorogenic acid) STD [M+NH4]+,372.1289
+4.62,C27H46FeN10O12+,Ferrichrome STD [M+NH4]+,758.2641
+12.25,C24H61N3O18P3+,Glycerophosphocholine STD [3M+H]+,772.3157
+6.19,C10H17N2O3S+,Biotin STD [M+H]+,245.0954
+14.41,C6H18NO14P2+,Phosphoglycerate STD [2M+NH4]+,390.0197
+14.41,C9H22O21P3+,Phosphoglycerate STD [3M+H]+,558.9861
+10.56,C13H19N6O5S+,S-adenosyl-cysteine STD [M+H]+,371.1132
+4.64,[C27H44FeN9O12]2+,Ferrichrome STD [M+2H]2+,371.1224
+4.73,C27H42FeN9NaO12+,Ferrichrome STD [M+Na]+,763.2195
+15.51,C9H20N4O14P3+,CTP STD [M+NH4]+,501.0183
+13.72,C14H31O20P2+,Sedoheptulose-7-phosphate STD [2M+H]+,581.0878
+12.65,C11H20N3O7+,Glutamyl-threonyl-glycine STD [M+H]+,306.1296
+13.00,C9H15N2O5+,Glutamyl-threonine STD [M-H2O+H]+,231.0975
+15.13,C18H34N5O30P6+,UTP STD [2M+NH4]+,985.9709
+6.11,C10H15N2O2S+,Biotin STD [M-H2O+H]+,227.0849
+13.83,C18H32N5O24P4+,UDP STD [2M+NH4]+,826.0382
+9.61,C10H13N4O6+,Xanthosine STD [M+H]+,285.0830
+8.39,C7H13N2O4+,N-Acetyl-L-glutamine STD [M+H]+,189.0870
+6.16,C20H33N4O6S2+,Biotin STD [2M+H]+,489.1836
+12.60,C22H25N4O6+,5-Hydroxy-L-tryptophan STD [2M+H]+,441.1769
+9.77,C20H27N10O10+,Guanosine STD [2M+H]+,567.1906
+9.77,C18H31N6O4+,Trimethyl-histidine (hercynine) STD [2M+H]+,395.2401
+8.70,C9H15N3O6C7H7+,Glutamyl-phenylalanyl-glycine STD [M+H]+,352.1503
+12.49,C12H21N4O7+,Glutamyl-glutamine-glycine STD [M+H]+,333.1405
+3.39,C27H45O+,"Vitamin D3 (Cholecalciferol) STD,7-Dehydrocholesterol STD [M+H]+",385.3465
+4.85,C7H11N2O2+,Glycyl-L-proline lactam STD [M+H]+,155.0815
+11.00,C16H22N3O7+,Glutamyl-tyrosine-glycine STD [M+H]+,368.1452
+23.30,C24H57N8O8+,Lysine STD [4M+H]+,585.4294
+10.21,C7H12N2O5C9H7NH+,Glutamyl-tryptophan STD [M+H]+,334.1397
+11.81,C12H19N6O4+,Histidine STD [2M+H]+,311.1462
+9.46,C20H25N8O12+,Xanthosine STD [2M+H]+,569.1586
+12.26,C12H31N9O15P3+,Phosphocreatine STD [3M+H]+,634.1147
+6.03,C24H35N10O10+,Dimethyl-guanosine STD [2M+H]+,623.2532
+6.10,[C27H47N9O12]2+,Deferriferrichrome STD [M+2H]2+,344.6667
+6.08,C27H49N10O12+,Deferriferrichrome STD [M+NH4]+,705.3526
+11.05,C10H19N2O6+,Hydroxyproline STD [2M+H]+,263.1238
+6.37,C27H45N9NaO12+,Deferriferrichrome STD [M+Na]+,710.3080
+8.14,C30H37N12O15+,Inosine STD [3M+H]+,805.2496
+10.41,C16H33N4O6+,N6-Acetyl-lysine STD [2M+H]+,377.2395
+10.66,C22H39N6O12S2+,Homoglutathione (HGSH) STD [2M+H]+,643.2062
+22.23,C7H15N2O+,Methyl-lysine STD [M-H2O+H]+,143.1179
+7.13,C22H31N10O10+,"2-O-Methylguanosine STD,1-Methylguanosine STD [2M+H]+",595.2219
+10.92,C33H58N9O18S3+,Homoglutathione (HGSH) STD [3M+H]+,964.3056
+23.26,C18H43N6O6+,Lysine STD [3M+H]+,439.3239
+7.10,C11H15N2O4+,Tyrosyl-glycine STD [M+H]+,239.1026
+13.79,C18H29N4O24P4+,UDP STD [2M+H]+,809.0117
+12.71,C20H35N6O12+,"Glutamyl-glutamine STD,Norophthalmic acid (glutamyl-alanyl-glycine) STD [2M+H]+",551.2307
+9.62,C5H11N2O3+,Alanyl-glycine STD [M+H]+,147.0764
+10.85,C11H20N3O6S+,Homoglutathione (HGSH) STD [M+H]+,322.1067
+10.41,C11H18N3O5S+,Homoglutathione (HGSH) STD [M-H2O+H]+,304.0962
+6.17,C20H32N4NaO6S2+,Biotin STD [2M+Na]+,511.1655
+6.13,C10H16N2NaO3S+,Biotin STD [M+Na]+,267.0774
+6.05,C18H34N2NaO10+,Pantothenate STD [2M+Na]+,461.2106
+11.59,C7H11NNaO5+,N-Acetyl-glutamate STD [M+Na]+,212.0529
+10.84,C11H16N5O5+,7-Methylguanosine STD [M+H]+,298.1146
+9.50,C3H7N2O2+,"D-Cycloserine STD,Formiminoglycine MS [M+H]+",103.0502
+11.69,C5H8NO2+,5-Aminolevulinate STD (not 1-Pyrroline-2-carboxylate?) [M-H2O+H]+,114.0550
+2.91,C16H31N2O6+,"Hexanoyl Glycine STD,Isovalerylsarcosine STD [2M+H]+",347.2177
+13.86,C15H24N2NaO17P2+,UDP-glucose STD [M+Na]+,589.0442
+12.98,C6H13NO7P+,D-Glucosamine 6-phosphate STD [M-H2O+H]+,242.0424
+13.41,C8H15NO8P+,N-Acetyl-D-glucosamine 6-phosphate STD [M-H2O+H]+,284.0530
+12.69,C12H29N2O16P2+,D-Glucosamine 6-phosphate STD [2M+H]+,519.0987
+11.02,C18H33N4O10+,gamma-Glutamyl-2-aminobutyrate STD [2M+H]+,465.2191
+3.86,C42H61O8+,Corticosterone STD [2M+H]+,693.4361
+13.64,C7H19NO10P+,Sedoheptulose-7-phosphate STD [M+NH4]+,308.0741
+15.07,C9H15N2NaO15P3+,UTP STD [M+Na]+,506.9577
+12.36,C18H31N6O12+,Glutamyl-glycyl-glycine STD [2M+H]+,523.1994
+11.62,C14H22N2NaO10+,N-Acetyl-glutamate STD [2M+Na]+,401.1167
+14.42,C6H14NaO14P2+,Phosphoglycerate STD [2M+Na]+,394.9751
+15.56,C18H33N6O28P6+,CTP STD [2M+H]+,966.9763
+9.78,C10H13N5NaO5+,8-Oxo-2-deoxyguanosine STD [M+Na]+,306.0809
+15.44,C16H25N5NaO16P2+,GDP-glucose STD [M+Na]+,628.0664
+11.35,C6H11N2O2+,Ectoine STD [M+H]+,143.0815
+9.67,C16H27N6O4+,Dimethyl-histidine STD [2M+H]+,367.2088
+12.92,C28H53N8O22P4+,CDP-choline STD [2M+H]+,977.2219
+12.66,C18H30N5O18P2+,UMP STD [2M+NH4]+,666.1056
+11.52,C7H18NO6+,Pinitol STD [M+NH4]+,212.1129
+11.13,C7H14NaO6+,Pinitol STD [M+Na]+,217.0683
+15.38,C7H16NO2+,Acetylcholine STD [M+H]+,146.1176
+12.71,C6H10NO5+,Acetyl-aspartate STD [M+H]+,176.0553
+6.92,C32H40NO18+,3-Caffeoylquinic acid (Chlorogenic acid) STD [2M+NH4]+,726.2240
+6.83,C32H36NaO18+,3-Caffeoylquinic acid (Chlorogenic acid) STD [2M+Na]+,731.1794
+13.28,C6H8NO4+,Acetyl-aspartate STD [M-H2O+H]+,158.0448
+9.30,C27H31O16+,Rutin STD [M+H]+,611.1607
+5.09,C14H21N2O6+,Indican STD [M+NH4]+,313.1394
+4.62,C25H28NO12+,"3,5-Dicaffeoylquinic acid (Isochlorogenic acid A) STD [M+NH4]+",534.1606
+11.49,C14H29BNO12+,Pinitol STD [2M+B+NH4]+,414.1777
+7.53,C4H8NO3+,Acetyl-glycine STD [M+H]+,118.0499
+11.22,[C11H20N6O4]2+,1-Methyladenosine STD [M+H+NH4]2+,150.0768
+10.47,C10H19N2O5S+,Glutamyl-methionine STD [M+H]+,279.1009
+8.79,C10H23N2O4S2+,Methionine STD [2M+H]+,299.1094
+10.48,[C23H40N7O17P3S]2+,Acetyl-CoA STD [M+2H]2+,405.5702
+9.65,C20H37N4O10S2+,Glutamyl-methionine STD [2M+H]+,557.1946
+5.78,C4H5N2O2+,Uracil STD [M+H]+,113.0346
+12.52,C8H15N2O8+,Aspartate STD [2M+H]+,267.0823
+13.25,C12H26N6NaO6+,Citrulline STD [2M+Na]+,373.1806
+4.37,C20H29N4O10+,Thymidine STD [2M+H]+,485.1878
+4.71,C10H14N2NaO5+,Thymidine STD [M+Na]+,265.0795
+10.14,C5H12NaO5+,Arabitol STD [M+Na]+,175.0577
+4.74,C10H13N2O4+,Thymidine STD [M-H2O+H]+,225.0870
+4.08,C26H42NO4+,Glycochenodeoxycholate STD [M-H2O+H]+,432.3108
+4.09,C14H17N8O4+,Dimethyl-xanthine STD [2M+H]+,361.1367
+6.28,C10H13N4O4+,"Deoxyinosine MS,Thymine STD [2M+H]+",253.0931
+3.14,C48H68NO14+,Schizandrin STD [2M+NH4]+,882.4634
+15.44,C24H43O21+,Maltotetraose STD [M+H]+,667.2291
+11.99,C16H37N12O8+,Creatine STD [4M+H]+,525.2852
+12.60,C12H28N9O6+,Creatine STD [3M+H]+,394.2157
+3.42,C21H31O4+,Corticosterone STD [M+H]+,347.2217
+7.91,C7H18NO6+,Methylglucoside STD [M+NH4]+,212.1129
+5.75,C20H24NO9+,cis-Resveratrol-glucuronides STD [M+NH4]+,422.1446
+11.00,C7H12N3O3+,Glutaminyl-glycine STD [M-H2O+H]+,186.0873
+4.76,C7H12N3O+,Acetyl-histamine STD [M+H]+,154.0975
+10.10,C6H12NO4+,N-Methyl-glutamate STD [M+H]+,162.0761
+5.10,C7H6NO+,Anthranilate STD [M-H2O+H]+,120.0444
+8.98,C4H10NO2Se+,Se-Methyl-L-selenocysteine STD [M+H]+,183.9871
+8.98,C8H19N2O4Se2+,Se-Methyl-L-selenocysteine STD [2M+H]+,366.9670
+9.13,C9H17O4+,Azelaic acid STD [M+H]+,189.1121
+8.99,C9H15O3+,Azelaic acid STD [M-H2O+H]+,171.1016
+9.05,C9H20NO4+,Azelaic acid STD [M+NH4]+,206.1387
+12.60,C6H10N3O2S+,L-2-Thiohistidine STD [M+H]+,188.0488
+14.10,C12H19N6O4S2+,L-2-Thiohistidine STD [2M+H]+,375.0904
+12.09,C18H28N9O6S3+,L-2-Thiohistidine STD [3M+H]+,562.1319
+12.33,C24H37N12O8S4+,L-2-Thiohistidine STD [4M+H]+,749.1735
+11.24,C7H15O6+,Pinitol STD [M+H]+,195.0863
+8.78,C14H28NaO12+,Methylglucoside STD [2M+Na]+,411.1473
+7.78,C14H29BNO12+,Methylglucoside STD [2M+B+NH4]+,414.1777
+9.48,C27H30NaO16+,Rutin STD [M+Na]+,633.1426
+10.12,C7H12NaO6+,Quinic acid STD [M+Na]+,215.0526
+7.81,C16H18NaO9+,3-Caffeoylquinic acid (Chlorogenic acid) STD [M+Na]+,377.0843
+3.06,C20H33O2+,Arachidonic acid STD [M+H]+,305.2475
+4.75,C25H24NaO12+,"3,5-Dicaffeoylquinic acid (Isochlorogenic acid A) STD [M+Na]+",539.1160
+12.06,C36H61N12O8S4+,Ergothioneine STD [4M+H]+,917.3613
+6.84,C14H29N4O6+,Valyl-glycine STD [2M+H]+,349.2082
+9.45,C10H12N4NaO6+,Xanthosine STD [M+Na]+,307.0649
+9.49,C20H24N8NaO12+,Xanthosine STD [2M+Na]+,591.1406
+11.00,C10H16N3O5+,3-methylcytidine STD [M+H]+,258.1084
+6.70,C11H16N5O5+,O6-Methylguanosine STD [M+H]+,298.1146
+16.00,C13H25N6O6+,Glutamyl-arginine-glycine STD [M+H]+,361.1830
+10.68,C13H18N6NaO5S+,S-adenosyl-cysteine STD [M+Na]+,393.0952
+9.64,C30H37N12O18+,Xanthosine STD [3M+H]+,853.2343
+11.09,C9H16N2NaO5+,gamma-Glutamyl-2-aminobutyrate STD [M+Na]+,255.0951
+9.81,C20H26N10NaO10+,8-Oxo-2-deoxyguanosine STD [2M+Na]+,589.1726
+6.25,C42H55N6O6+,Trimethyl-tryptophan (Hypaphorine) STD [3M+H]+,739.4178
+23.31,C6H13N2Na2O2+,Lysine STD [M+2Na-H]+,191.0767
+4.82,C7H16NO3+,"2-[(2-Hydroxyethyl)(methyl)amino]ethyl acetate STD,2-Hydroxyethyl butylcarbamate STD [M+H]+",162.1125
+11.27,C8H5Na2O4+,Phthalic acid STD [M+2Na-H]+,210.9978
+13.95,C3H11N2O5S2+,Cysteine-S-sulfate STD [M+NH4]+,219.0104
+14.35,C11H18N3O8+,Glutamyl-aspartate-glycine STD [M+H]+,320.1088
+11.88,C20H46N15O10+,Creatine STD [5M+H]+,656.3547
+12.73,C16H41N12O20P4+,Phosphocreatine STD [4M+H]+,845.1505
+11.83,C20H26N7O6+,5-Methyltetrahydrofolic acid STD [M+H]+,460.1939
+12.04,C24H55N18O12+,Creatine STD [6M+H]+,787.4241
+15.51,C24H41O20+,Maltotetraose STD [M-H2O+H]+,649.2186
+19.97,[C13H22N6O3S]2+,S-adenosyl-3-thiopropylamine STD [M+2H]2+,171.0732
+2.98,C27H43+,7-Dehydrocholesterol STD [M-H2O+H]+,367.3359
+3.87,C28H45O+,Vitamin D2 (Ergocalciferol) STD [M+H]+,397.3465
+9.00,C10H14N5O5+,8-Oxo-2-deoxyguanosine STD [M+H]+,284.0989
+9.81,C30H40N15O15+,8-Oxo-2-deoxyguanosine STD [3M+H]+,850.2823
+8.53,C8H11N6O2+,Cytosine STD [2M+H]+,223.0938
+27.40,C8H12NO2+,Dopamine STD [M+H]+,154.0863
+12.16,C6H9NNaO5+,Acetyl-aspartate STD [M+Na]+,198.0373
+12.39,C12H18N2NaO10+,Acetyl-aspartate STD [2M+Na]+,373.0854
+8.18,C30H32NO12+,Epicatechin STD [2M+NH4]+,598.1919
+4.07,C16H13O5+,Acacetin STD [M+H]+,285.0757
+6.32,C22H29N8O10+,2-O-Methyl-inosine STD [2M+H]+,565.2001
+12.70,C9H12NO4+,"3,4-Dihydroxyphenylalanine STD [M+H]+",198.0761
+4.23,C8H11N4S2+,Methimazole STD (Methimazole disulfide? [2M-H]+) [2M+H]+,227.0420
+7.05,C3H5N2S+,2-Mercaptoimidazole STD [M+H]+,101.0168
+6.68,C6H7N4S2+,2-Mercaptoimidazole STD (2-Mercaptoimidazole disulfide [2M-H]+) [2M+H]+,199.0107
+11.13,C11H19NNaO9+,N-Acetylneuraminate STD [M+Na]+,332.0952
+4.91,C4H7N2O2+,"N-Methylhydantoin MS,Dihydrouracil STD [M+H]+",115.0502
+5.40,C12H23O4+,Dodecanedioic acid STD [M+H]+,231.1591
+12.66,C16H33N4O6+,N2-Acetyl-lysine STD [2M+H]+,377.2395
+8.23,C14H25N4O8+,N-Acetyl-L-glutamine STD [2M+H]+,377.1667
+13.43,C8H17N2O4S2+,Homocystine STD [M+H]+,269.0624
+12.72,C16H33N4O8S4+,Homocystine STD [2M+H]+,537.1176
+2.80,C26H33N4O4+,Melatonin STD [2M+H]+,465.2496
+4.85,C7H8NO2+,Anthranilate STD [M+H]+,138.0550
+11.42,C11H13N2O3+,5-Hydroxy-L-tryptophan STD [M+H]+,221.0921
+13.35,C10H41N5O20P5+,O-Phosphoethanolamine STD [5M+H]+,706.1027
+12.85,C6H15N6O4+,Guanidinoacetate STD [2M+H]+,235.1149
+4.91,C14H16N8NaO4+,Dimethyl-xanthine STD [2M+Na]+,383.1187
+13.21,C9H13N3O7P+,CMP STD [M-H2O+H]+,306.0486
+15.12,C10H14N5O10P2+,GDP STD [M-H2O+H]+,426.0210
+11.18,C22H38N2NaO18+,N-Acetylneuraminate STD [2M+Na]+,641.2012
+25.41,C4H12N5+,Metformin STD [M+H]+,130.1087
+11.88,C8H18N2NaO6S2+,PIPES STD [M+Na]+,325.0498
+12.63,C9H10NO3+,"3,4-Dihydroxyphenylalanine STD [M-H2O+H]+",180.0655
+15.24,C20H31N10O22P4+,GDP STD [2M+H]+,887.0559
+11.69,C6H12N3O4+,Asparginyl-glycine STD [M+H]+,190.0822
+9.15,C29H25O12+,Theaflavin STD [M+H]+,565.1341
+7.53,C29H28NO12+,Theaflavin STD [M+NH4]+,582.1606
+7.71,C29H24NaO12+,Theaflavin STD [M+Na]+,587.1160
+2.98,C13H20N3O2+,Melatonin STD [M+NH4]+,250.1550
+3.62,C13H16N2NaO2+,Melatonin STD [M+Na]+,255.1104
+4.48,C40H44NaO16+,Polydatin STD [2M+Na]+,803.2522
+2.62,C28H41N2O9+,Antimycin A1 STD [M+H]+,549.2807
+9.68,C6H7N2O2S+,Thiourocanic acid STD [M+H]+,171.0223
+5.50,C7H15N2O3S+,Methionyl-glycine STD [M+H]+,207.0798
+30.89,C4H12N5+,Metformin STD [M+H]+,130.1087
+28.14,C4H12N5+,Metformin STD [M+H]+,130.1087
+3.59,C42H61O10+,Cortisol/Hydrocortisone STD [2M+H]+,725.4259
+5.68,C20H20NaO9+,cis-Resveratrol-glucuronides STD [M+Na]+,427.1000
+13.58,C18H29N6O16P2+,CMP STD [2M+H]+,647.1110
+9.64,C27H46N9O6+,Trimethyl-histidine (hercynine) STD [3M+H]+,592.3566
+12.63,C7H4NO3+,Quinolinic acid STD [M-H2O+H]+,150.0186
+21.30,C6H15N2O3+,Hydroxylysine STD [M+H]+,163.1077
+5.44,C4H9N2O3+,Glycyl-glycine STD [M+H]+,133.0608
+4.59,C24H36NO7+,Schizandrin STD [M+NH4]+,450.2486
+3.51,C21H29O3+,Corticosterone STD [M-H2O+H]+,329.2111
+4.17,C8H15NNaO3+,"Hexanoyl Glycine STD,Isovalerylsarcosine STD [M+Na]+",196.0944
+13.82,C10H16KN5O13P3+,ATP STD [M+K]+,545.9589
+5.51,C11H13NNaO4+,Acetyl-tyrosine STD [M+Na]+,246.0737
+5.50,C13H16N3O3+,Tryptophyl-glycine STD [M+H]+,262.1186
+12.59,C16H29N4O12+,Glutamyl-serine STD [2M+H]+,469.1776
+4.44,C22H26N2NaO8+,Acetyl-tyrosine STD [2M+Na]+,469.1581
+3.32,C59H94NO4+,Coenzyme Q10 STD [M+NH4]+,880.7177
+13.47,C19H20N7O6+,Folic acid STD [M+H]+,442.1470
+9.15,C22H41N4O10+,Glutamyl-(iso)leucine STD [2M+H]+,521.2817
+12.72,C22H39N6O14+,Glutamyl-threonyl-glycine STD [2M+H]+,611.2519
+11.79,C20H37N8O12S4+,Cysteinylglycine disulfide STD [2M+H]+,709.1408
+16.65,C13H25N4O6+,Glutamyl-lysine-glycine STD [M+H]+,333.1769
+8.68,C32H43N6O12+,Glutamyl-phenylalanyl-glycine STD [2M+H]+,703.2933
+9.90,C18H23N4O6+,Glutamyl-tryptophan-glycine STD [M+H]+,391.1612
+9.90,C36H45N8O12+,Glutamyl-tryptophan-glycine STD [2M+H]+,781.3151
+3.90,C11H17N2O5+,5-O-Methylthymidine STD [M+H]+,257.1132
+9.75,C32H39N6O10+,Glutamyl-tryptophan STD [2M+H]+,667.2722
+14.66,C18H29N4O14+,Glutamyl-aspartate STD [2M+H]+,525.1675
+14.49,C20H33N4O14+,Glutamyl-glutamate STD [2M+H]+,553.1988
+7.19,C5H11N2O3S+,Cysteinyl-glycine STD [M+H]+,179.0485
+15.36,C24H52N15O9+,Arginyl-glycine STD [3M+H]+,694.4067
+15.36,C16H35N10O6+,Arginyl-glycine STD [2M+H]+,463.2736
+6.81,C22H29N4O8+,Tyrosyl-glycine STD [2M+H]+,477.1980
+9.86,C22H19O10+,Catechin gallate STD [M+H]+,443.0973
+10.34,C6H11NNaO2+,L-Pipecolate STD [M+Na]+,152.0682
+3.31,C24H33O7+,Schizandrin STD [M+H]+,433.2221
+12.01,C18H33N4O12+,Glutamyl-threonine STD [2M+H]+,497.2089
+5.45,C22H27N2O8+,Acetyl-tyrosine STD [2M+H]+,447.1762
+3.51,C42H57BNO10+,Aldosterone STD [2M+B+NH4]+,746.4070
+3.51,C42H57O10+,Aldosterone STD [2M+H]+,721.3946
+17.33,C8H18NO3+,Lactoylcholine STD [M+H]+,176.1281
+6.19,C24H35N2O4+,N-trimethyl-phenylalanine STD [2M+H]+,415.2591

@@ -23,6 +23,7 @@ import io.github.mzmine.datamodel.MassList;
 import io.github.mzmine.datamodel.RawDataFile;
 import io.github.mzmine.datamodel.Scan;
 import io.github.mzmine.datamodel.impl.SimpleMassList;
+import io.github.mzmine.modules.dataprocessing.masscalibration.errormodeling.PpmError;
 import io.github.mzmine.modules.dataprocessing.masscalibration.standardslist.StandardsList;
 import io.github.mzmine.modules.dataprocessing.masscalibration.standardslist.StandardsListExtractor;
 import io.github.mzmine.modules.dataprocessing.masscalibration.standardslist.StandardsListExtractorFactory;
@@ -188,12 +189,51 @@ public class MassCalibrationTask extends AbstractTask {
 
       DataPoint[] mzPeaks = massList.getDataPoints();
 
-      DataPoint[] newMzPeaks = massCalibrator.calibrateMassList(mzPeaks, biasEstimate);
+      DataPoint[] newMzPeaks = massCalibrator.calibrateMassList(mzPeaks, biasEstimate, i == 1);
 
       SimpleMassList newMassList =
               new SimpleMassList(massListName + " " + suffix, scan, newMzPeaks);
 
       scan.addMassList(newMassList);
+
+      if(i == 1){
+        for(int j = 0; j < newMzPeaks.length; j++){
+          System.out.println("new mz " + newMzPeaks[j].getMZ());
+        }
+
+        DataPoint[] mzpeaksvals = newMassList.getDataPoints();
+        for(int j = 0; j < mzpeaksvals.length; j++){
+          System.out.println("new mz from new masslist" + mzpeaksvals[j].getMZ());
+        }
+
+        DataPoint[] scanmzvals = scan.getMassList(massListName + " " + suffix).getDataPoints();
+        for(int j = 0; j < scanmzvals.length; j++){
+          System.out.println("new mz from new scan" + scanmzvals[j].getMZ());
+        }
+      }
+
+      if(i == 1){
+        System.out.println(massListName + " mz, " + massListName + " intensity");
+        DataPoint[] vals = scan.getMassList(massListName).getDataPoints();
+        for(DataPoint val: vals){
+          System.out.println(val.getMZ() + ", " + val.getIntensity());
+        }
+        System.out.println();
+        String masslistname2 = massListName + " " + suffix;
+        System.out.println(masslistname2 + " mz, " + masslistname2 + " intensity");
+        DataPoint[] vals2 = scan.getMassList(masslistname2).getDataPoints();
+        for(DataPoint val2: vals2){
+          System.out.println(val2.getMZ() + ", " + val2.getIntensity());
+        }
+
+        System.out.println();
+        System.out.println("org mz, shifted mz, shifted mz2");
+
+        PpmError error = new PpmError();
+        for(int j = 0; j < vals.length; j++){
+          System.out.println(vals[j].getMZ() + ", " + vals2[j].getMZ() + ", " + error.calibrateAgainstError(vals[j].getMZ(), biasEstimate));
+        }
+      }
 
       // Remove old mass list
       if (autoRemove)

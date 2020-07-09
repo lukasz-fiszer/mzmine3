@@ -29,7 +29,16 @@ public class PpmError implements ErrorType {
   }
 
   public double calibrateAgainstError(double value, double error) {
+//    System.out.println("calibrating " + value + " against " + error);
     double fractionalError = error / 1_000_000;
-    return value / (1 + fractionalError);
+    double divide = 1 + fractionalError;
+    double shifted =  value / divide;
+//    System.out.println("divide " + divide + " fractional error " + fractionalError + " shifted " + shifted);
+    double change = shifted - value;
+    double errorValue = change / value;
+    double ppmError = errorValue * 1000000;
+//    System.out.println(value + " shifted to " + shifted);
+//    System.out.println("change " + change + " error value " + errorValue + " ppm error " + ppmError);
+    return shifted;
   }
 }

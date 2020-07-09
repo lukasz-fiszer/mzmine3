@@ -129,7 +129,7 @@ public class MassCalibrator {
    * @param biasEstimate bias estimate against which the mass list should be calibrated
    * @return new mass calibrated list of mz peaks
    */
-  public DataPoint[] calibrateMassList(DataPoint[] massList, double biasEstimate) {
+  public DataPoint[] calibrateMassList(DataPoint[] massList, double biasEstimate, boolean print) {
     massListsCount++;
 
     DataPoint[] calibratedMassList = new DataPoint[massList.length];
@@ -137,8 +137,15 @@ public class MassCalibrator {
       DataPoint oldDataPoint = massList[i];
       double oldMz = oldDataPoint.getMZ();
       double calibratedMz = massError.calibrateAgainstError(oldMz, biasEstimate);
+      if(print)
+        System.out.println("old mz " + oldMz + " calibrated mz " + calibratedMz);
       calibratedMassList[i] = new SimpleDataPoint(calibratedMz, oldDataPoint.getIntensity());
+      if(print)
+        System.out.println("check " + calibratedMz + " " + calibratedMassList[i].getMZ());
     }
+    if(print)
+      System.out.println();
+//    if(massListsCount == 2) System.exit(0);
 
     return calibratedMassList;
   }

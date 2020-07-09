@@ -20,11 +20,8 @@ package io.github.mzmine.modules.visualization.spectra.simplespectra;
 
 import java.util.Collection;
 import javax.annotation.Nonnull;
-import io.github.mzmine.datamodel.Feature;
-import io.github.mzmine.datamodel.IsotopePattern;
-import io.github.mzmine.datamodel.MZmineProject;
-import io.github.mzmine.datamodel.RawDataFile;
-import io.github.mzmine.datamodel.Scan;
+
+import io.github.mzmine.datamodel.*;
 import io.github.mzmine.main.MZmineCore;
 import io.github.mzmine.modules.MZmineModuleCategory;
 import io.github.mzmine.modules.MZmineRunnableModule;
@@ -102,6 +99,12 @@ public class SpectraVisualizerModule implements MZmineRunnableModule {
       IsotopePattern spectrum, String massList) {
 
     Scan scan = dataFile.getScan(scanNumber);
+
+    DataPoint[] vals = scan.getMassList(massList).getDataPoints();
+    System.out.println(String.format("%s mz, %s intensity", massList, massList));
+    for(DataPoint val: vals){
+      System.out.println(val.getMZ() + ", " + val.getIntensity());
+    }
 
     if (scan == null) {
       MZmineCore.getDesktop().displayErrorMessage(
