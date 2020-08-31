@@ -1,3 +1,23 @@
+## GSoC 2020 review
+
+##### Automatic mass calibration support and High-resolution deisotoping
+
+Most of the commits are in the branch at: https://github.com/lukasz-fiszer/mzmine3/tree/shift-testing-merge
+and at the corresponding pull request: https://github.com/mzmine/mzmine3/pull/78
+
+
+We have managed to create mass calibration support that includes more features and is more robust than we have initially planned. This includes adding more regression modes (KNN regression) or a choice between two error extraction modes. As always, there is still a lot of potential improvements that can be researched and added. On the code side, I have ideas for few very concrete updates that could benefit the module, this includes certain refactoring of few parts of the codebase and improving runtime performance of the module (for instance more efficient range search in standards list, this can be done for instance with a k-d tree). These are not a necessity for the module, but they are still a very valuable upgrades.
+
+While building a more robust mass calibration module, I have not managed to build the deisotoping module on time, by the end of August. My intention is to create deisotoping support over the next month, so we can have a new module and MZmine can benefit from the addition.
+
+Acknowledgments:
+Thank you to the project mentors and the MZmine team for their support. Thank you to Tomas Pluskal, Albert Rivas Ubach, Robin Schmid, Daniel Petras and Steffen Heu for their time introducing me to details of mass spectrometry, sharing and discussing suggestions, testing and providing feedback on the module. 
+
+GSoC project link: https://summerofcode.withgoogle.com/projects/#6529966893694976
+
+---
+
+
 ![MZmine 3](logo/MZmine_logo_RGB.png)
 
 [![Build Status](https://travis-ci.org/mzmine/mzmine3.svg?branch=master)](https://travis-ci.org/mzmine/mzmine3)
